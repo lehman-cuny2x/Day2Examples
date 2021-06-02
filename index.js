@@ -336,10 +336,4 @@ secondFunction();
 firstFunction();
 
 calculate(1, 10, displayAlert );
-
-
-/*
-Lunch Break. We will be back at 2:00 pm
-
-
-*/
+calculate(110, 10, displayAlert );
