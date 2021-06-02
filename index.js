@@ -341,4 +341,31 @@ calculate(110, 10, displayAlert );
 /*
 Soon we will be discussing the DOM and how to manipulate it.
 
+
+
+pull request
+
+This tells others about changes you have pushed to a branch on a GitHub repo.
+*/
+
+
+let cities = ["NYC", "London", "Paris", "Moscow", ["LA", "Miami"]];
+
+cities.forEach(test3);
+
+function test3(item, index){
+    console.log(index + ":" + item);
+}
+
+let numbers = [1, 2, 3, 4, 9, 16, 25, 36, 49, 64, 81];
+
+let x4 = numbers.map(y1 => y1 * 2);
+
+
+console.log(x4);
+
+/*
+git add .
+
+git commit -m "Commit message"
 */
