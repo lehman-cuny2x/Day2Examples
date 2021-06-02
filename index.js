@@ -337,3 +337,8 @@ firstFunction();
 
 calculate(1, 10, displayAlert );
 calculate(110, 10, displayAlert );
+
+/*
+Soon we will be discussing the DOM and how to manipulate it.
+
+*/
